@@ -1,2 +1,2 @@
 # fxDesign
-![](src/sample.ss.jpg)
+![](src/sample/ss.jpg)
